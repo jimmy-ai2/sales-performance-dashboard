@@ -4,7 +4,7 @@ A responsive, interactive sales analytics dashboard built with Streamlit and Plo
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://your-live-demo-link-here.com)
+👉 [View Live Demo](https://sales-performance-dashboard-jg.streamlit.app/)
 
 ## ✨ Features
 
